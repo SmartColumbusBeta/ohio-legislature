@@ -2,7 +2,7 @@
 
 ## District Maps:
 - To find your district and the representative who represents you, refer to the map above.
-- Or search for your representative by name, district number or zip code on the bottom left corner of the [The Ohio House of Representatives homepage](https://http://www.ohiohouse.gov/).
+- Or search for your representative by name, district number or zip code on the bottom left corner of the [The Ohio House of Representatives homepage](http://www.ohiohouse.gov/).
 
 ### :worried: But what about The Ohio Senate?
 - You can click [Find Your Senator](http://www.ohiosenate.gov/senators/district-map) and enter your address to find your district on their map.
